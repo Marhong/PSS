@@ -1,0 +1,64 @@
+@import "reset.css";
+@import "grid.css";
+@import "font-awesome.css";
+@import "superfish.css";
+
+
+
+/****Lists****/
+
+#index{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	background:#2a394e;
+}
+
+
+
+
+ul.list li {
+    padding-left: 27px;
+    background: url(../images/marker.png) 0 5px no-repeat;
+}
+
+ul.list li a {
+    text-decoration: underline;
+}
+
+ul.list  li+li {
+    margin-top: 12px;
+}
+
+
+/****Links****/
+
+
+a {
+	text-decoration: none;
+	color: inherit;
+	outline: none;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+a:hover {
+	color: #ff5241;
+}
+
+a.btn {
+    color: #fff;
+    background-color: #c8ced4;
+    display: inline-block;
+    font: 18px/18px 'Economica', sans-serif;
+    padding: 8px 27px 10px;
+    margin-top: 21px;
+}
+
+a.btn:hover {
+    background-color: #FF6B69;
+}
+#nav{
+
+}

@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+#container_demo {
+	margin-top: 10px;
+}
+
+#loginError, #signUpError {
+	color: red;
+	display: none;
+}

@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+#calendar{
+background:white;
+height: 680px;
+width: 800px;
+margin: 10px auto;
+margin-top:60px;
+}
+#Form,#sDate,#eDate,#addError{
+display:none;
+}
+#Form{
+overflow:hidden;
+}
+#addError{
+color:red;}
+#options{
+text-align:center;
+}
+#footer{
+	height:100px;
+	width:1500px;
+	margin-top:10px;
+	text-align:center;
+}

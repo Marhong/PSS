@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+#footer{
+	height:100px;
+	width:1500px;
+	margin-top:10px;
+	text-align:center;
+}
+#header{
+	margin-bottom:50px;
+}
+#content{
+	margin-top:60px;
+	text-align:center;
+}
+#state{
+	text-align:center;
+    width:1300px;
+    height:500px;
+
+}
+#time{
+	
+	text-align:center;
+}
+
+#stateForm{
+	float:left;
+    margin-top:10px;
+    margin-left:5px;
+    margin-bottom:10px;
+   
+}
+#stateChoice{
+	width:300px;
+	float:left;
+	text-align:center;
+}
+#query1{
+	margin-right:700px;
+}
+#result{
+	margin-top:50px;
+	text-align:center;
+}
+.td{
+	width:100px;
+}
